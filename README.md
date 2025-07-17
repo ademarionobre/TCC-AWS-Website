@@ -7,6 +7,9 @@
 Link dos slides do projeto apresentado.
 https://docs.google.com/presentation/d/11vj3fO5PGYcGFgQl_e6JBryuipyusqX_/edit?usp=share_link&ouid=109034247323161983874&rtpof=true&sd=true
 
+Link da apresentação
+https://youtu.be/EjDXVPILA-o
+
 Link do site
 https://d3ek7bxjhalji5.cloudfront.net/
 
